@@ -1,0 +1,58 @@
+.nav-item {
+    margin-left: 40px;
+}
+.navbar-light {
+    background-color: white;
+    margin-bottom: 2%;
+}
+.navbar-brand {
+    font-family: 'Inconsolata', monospace;
+    font-size: 30px;
+    letter-spacing: 5px;
+    color: chartreuse;
+}
+.trl {
+    height: auto;
+    width: 100%;
+}
+.flexB {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.item {
+    height: 400px;
+    width: 300px;
+    margin: 5px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    padding-top: 0;
+    align-items: center;
+    border: black 2px solid;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.boom {
+    width: 280px;
+    height: 40px;
+    background-color: rgb(0, 255, 0);
+    border-color: black;
+    border-radius: 10px;
+    font-size: 20px;
+    margin-top: 5%;
+}
+div {
+    display: block;
+}
+.klk {
+    width: 100%;
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+}
+.form-control_me-2 {
+    width: 20%;
+}
